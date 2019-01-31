@@ -1,0 +1,15 @@
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\bin\Debug\EFApp.exe.config
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\bin\Debug\EFApp.exe
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\bin\Debug\EFApp.pdb
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\bin\Debug\EntityFramework.dll
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\bin\Debug\EntityFramework.xml
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\obj\Debug\EFApp.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\obj\Debug\EFApp.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\obj\Debug\EFApp.csproj.CopyComplete
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\obj\Debug\EFApp.exe
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\obj\Debug\EFApp.pdb
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Adrian\Desktop\Homework\EntityFramework\EFApp\EFApp\bin\Debug\Newtonsoft.Json.xml
